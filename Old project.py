@@ -791,4 +791,4 @@ if __name__ == "__main__":
     root.mainloop()
 
 # password: 123
-# kalo ada yang pengen ubah pergi ke line 233
+# ubah pw ke line 233
